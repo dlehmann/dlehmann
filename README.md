@@ -40,6 +40,19 @@
       Click-through crosshair overlay for Linux desktops, with custom SVG support.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://dlehmann.github.io/linkscout/">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="images/linkscout-dark.webp">
+          <img src="images/linkscout-light.webp" alt="LinkScout">
+        </picture>
+      </a>
+      <p><b><a href="https://github.com/dlehmann/linkscout">LinkScout</a></b><br>
+      Website link checker with a local web UI – finds broken links and saves websites for offline use.</p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ---
