@@ -49,7 +49,7 @@
         </picture>
       </a>
       <p><b><a href="https://github.com/dlehmann/linkscout">LinkScout</a></b><br>
-      Website checker with a local web UI – finds broken links and SEO problems and saves websites for offline use.</p>
+      Website checker with a local web UI – finds broken links and SEO problems, creates a sitemap.xml and detailed reports and saves websites for offline use.</p>
     </td>
     <td width="50%" valign="top"></td>
   </tr>
