@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://dlehmann.github.io/polonaise-c64/">
+      <a href="https://dlehmann.github.io/polonaise/">
         <img src="images/polonaise-c64.webp" alt="Polonaise for the C64">
       </a>
-      <p><b><a href="https://github.com/dlehmann/polonaise-c64">Polonaise for the C64</a></b><br>
+      <p><b><a href="https://github.com/dlehmann/polonaise">Polonaise for the C64</a></b><br>
       A disco conga line, steered like Snake – as a real Commodore 64 game on a D64 disk, with SID music and joystick control.</p>
     </td>
     <td width="50%" valign="top">
