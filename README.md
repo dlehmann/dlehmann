@@ -51,7 +51,13 @@
       <p><b><a href="https://github.com/dlehmann/linkscout">LinkScout</a></b><br>
       Website checker with a local web UI – finds broken links and SEO problems, shows the external services a site loads, searches its content, creates a sitemap.xml and detailed reports and saves websites for offline use.</p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://dlehmann.github.io/tilomat/">
+        <img src="images/tilomat-gb.webp" alt="Tilomat for the Game Boy">
+      </a>
+      <p><b><a href="https://github.com/dlehmann/tilomat">Tilomat for the Game Boy</a></b><br>
+      The tile machine – catch tiles from the belt and line up three of a kind. A puzzle game for the original Game Boy, playable in the browser.</p>
+    </td>
   </tr>
 </table>
 
