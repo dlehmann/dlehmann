@@ -49,7 +49,7 @@
         </picture>
       </a>
       <p><b><a href="https://github.com/dlehmann/crawlabout">Crawlabout</a></b><br>
-      Website exploration tool with a local web UI – finds broken links and SEO problems, shows the external services a site loads, searches its content, creates a sitemap.xml and detailed reports and saves websites for offline use.</p>
+      Website exploration tool with a local web UI – finds broken links and SEO problems, draws the link graph of a site, shows the external services it loads, searches its content, creates a sitemap.xml and detailed reports and saves websites for offline use.</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://dlehmann.github.io/tilomat/">
