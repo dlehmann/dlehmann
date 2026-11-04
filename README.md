@@ -42,14 +42,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://dlehmann.github.io/linkscout/">
+      <a href="https://dlehmann.github.io/crawlabout/">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="images/linkscout-dark.webp">
-          <img src="images/linkscout-light.webp" alt="LinkScout">
+          <source media="(prefers-color-scheme: dark)" srcset="images/crawlabout-dark.webp">
+          <img src="images/crawlabout-light.webp" alt="Crawlabout">
         </picture>
       </a>
-      <p><b><a href="https://github.com/dlehmann/linkscout">LinkScout</a></b><br>
-      Website checker with a local web UI – finds broken links and SEO problems, shows the external services a site loads, searches its content, creates a sitemap.xml and detailed reports and saves websites for offline use.</p>
+      <p><b><a href="https://github.com/dlehmann/crawlabout">Crawlabout</a></b><br>
+      Website exploration tool with a local web UI – finds broken links and SEO problems, shows the external services a site loads, searches its content, creates a sitemap.xml and detailed reports and saves websites for offline use.</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://dlehmann.github.io/tilomat/">
